@@ -2,7 +2,7 @@
   "name": "ts-package",
   "author": "presida",
   "license": "ISC",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ahhh ts",
   "keywords": [],
   "main": "dist/index.js",
